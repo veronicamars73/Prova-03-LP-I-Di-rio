@@ -37,3 +37,4 @@ App.o :  include/App.h
 
 clean:
 	rm -f *.o
+	rm $(PROG)
