@@ -1,4 +1,4 @@
-# Aula 12 de LP I
+# Prova 03 de LP I
 
 Projeto criado como método de avaliação da terceira unidade da disciplina de *Linguagem de Programação I* no período de 2020.5.
 
